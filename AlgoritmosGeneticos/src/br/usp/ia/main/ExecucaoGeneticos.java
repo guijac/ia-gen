@@ -15,7 +15,30 @@ public class ExecucaoGeneticos {
 	 */
 	public static void main(String[] args) {
 		
+		/*
+		 * 
+		 * Funcoes validas:
+		 * 	1. "G" - Gold
+		 * 	2. "B" - Bump
+		 *  3. "R" - Rastrigin
+		 */
 		
+		switch (args[1]) {
+		case "G":
+			
+			break;
+			
+		case "B":
+			
+			break;
+		
+		case "R":
+			
+			break;
+			
+		default:
+			System.out.println("Funcao invalida!");
+		}
 
 	}
 
