@@ -16,7 +16,6 @@ public class ExecucaoGeneticos {
 	public static void main(String[] args) {
 		
 		/*
-		 * 
 		 * Funcoes validas:
 		 * 	1. "G" - Gold
 		 * 	2. "B" - Bump
