@@ -2,10 +2,9 @@
 
 Aplicação de Inteligência Artificial - Otimizacao de funcoes com algoritmos geneticos
 
-Autores:
+Autor:
 
 Guilherme Cruz (guijac)
-
 
 A execucao do programa espera os seguintes parametros de entrada:
 	
