@@ -12,11 +12,6 @@ public class ExecucaoGeneticos {
 	 * 
 	 * EP - IA - Otimizacao de funcoes com algoritmos geneticos
 	 * 
-	 * Autores:
-	 * Decio Júnior n.º USP: 7693880
-	 * Guilherme Jorge n.º USP: 7712229
-	 * Victor Miguel F. Rodrigues n.º USP: 7136752
-	 * 
 	 * 
 	 * A execucao do programa espera os seguintes parametros de entrada:
 	 * 	
